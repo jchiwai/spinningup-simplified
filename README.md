@@ -30,26 +30,10 @@ Requirements are minimal:
 - **Pillow** `10.4.0`
 
 ## Example GIFs (visualized after 250,000 TotalEnvInteracts)
-**vpg**
-<img src="gifs/vpg.gif" alt="vpg GIF" width="200"/>
-
-**ppo**
-<img src="gifs/ppo.gif" alt="ppo GIF" width="200"/>
-
-**dpg**
-<img src="gifs/dpg.gif" alt="dpg GIF" width="200"/>
-
-**td3**
-<img src="gifs/td3.gif" alt="td3 GIF" width="200"/>
-
-**sac**
-<img src="gifs/sac.gif" alt="sac GIF" width="200"/>
-
-
-| Algorithm | GIF |
+| Algorithm |  |
 |-----------|-----|
 | **VPG**   | <img src="gifs/vpg.gif" alt="vpg GIF" width="200"/> |
 | **PPO**   | <img src="gifs/ppo.gif" alt="ppo GIF" width="200"/> |
-| **DPG**   | <img src="gifs/dpg.gif" alt="dpg GIF" width="200"/> |
+| **DPG**   | <img src="gifs/ddpg.gif" alt="ddpg GIF" width="200"/> |
 | **TD3**   | <img src="gifs/td3.gif" alt="td3 GIF" width="200"/> |
 | **SAC**   | <img src="gifs/sac.gif" alt="sac GIF" width="200"/> |
