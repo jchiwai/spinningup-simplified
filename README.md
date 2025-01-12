@@ -30,5 +30,4 @@ Requirements are minimal:
 - **Pillow** `10.4.0`
 
 ## Example GIFs
-
-![VPG gif](gifs/vpg.gif)
+<img src="gifs/vpg.gif" alt="vpg GIF" width="400" />
