@@ -15,7 +15,7 @@ Each algorithm is contained within its own Jupyter Notebook. The notebooks are s
 - Model
 - Buffer
 - Experiment
-- Visualisation
+- Visualization
 
 The parameters are generally consistent with the original implementation, so these notebooks can be executed with minimal adjustments to produce results similar to the original setup benchmark (atleast on HalfCheetah-v4)
 
@@ -29,5 +29,8 @@ Requirements are minimal:
 - **Numpy** `1.24.3`
 - **Pillow** `10.4.0`
 
-## Example GIFs
-<img src="gifs/vpg.gif" alt="vpg GIF" width="200" />
+## Example GIFs (visualized after 250,000 TotalEnvInteracts)
+**vpg**
+<img src="gifs/vpg.gif" alt="vpg GIF" width="200"/>
+**sac**
+<img src="gifs/sac.gif" alt="vpg GIF" width="200"/>
