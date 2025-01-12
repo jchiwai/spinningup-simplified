@@ -26,6 +26,7 @@ Requirements are minimal:
 - **Torch** `2.4.1`
 - **Scipy** `1.10.1`
 - **Gymnasium** `0.29.1`
+- **MuJoCo** `3.1.6`
 - **Numpy** `1.24.3`
 - **Pillow** `10.4.0`
 
