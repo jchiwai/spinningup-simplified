@@ -17,7 +17,7 @@ Each algorithm is contained within its own Jupyter Notebook. The notebooks are s
 - Experiment
 - Visualization
 
-The parameters are generally consistent with the original implementation, so these notebooks can be executed with minimal adjustments to produce results similar to the original setup benchmark (atleast on HalfCheetah-v4)
+The parameters are generally consistent with the original implementation, so these notebooks can be run with minimal adjustments to produce results similar to the original setup benchmark (atleast on HalfCheetah-v4)
 
 ## Requirements
 Requirements are minimal: 
