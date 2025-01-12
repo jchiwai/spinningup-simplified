@@ -9,7 +9,15 @@ A streamlined implementation of [Spinning Up](https://spinningup.openai.com/en/l
 - Soft Actor-Critic
 
 ## Usage
-Each algorithm is contained within its own Jupyter Notebook. Simply open the notebook for the algorithm you wish to run, configure any desired parameters, and execute the cells.
+Each algorithm is contained within its own Jupyter Notebook. The notebooks are structured as follows:
+- Imports
+- Helper functions
+- Model Classes
+- Buffer
+- Experiment
+- Visualisation
+
+We use mostly the same parameters as the original implementation, so these notebooks can be run with minimal adjustments to yield results comparable to the original setup.
 
 ## Requirements
 Requirements are minimal: 
