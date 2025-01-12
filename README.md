@@ -2,11 +2,11 @@
 A streamlined implementation of [Spinning Up](https://spinningup.openai.com/en/latest/) using Pytorch (CPU) that retains the core reinforcement learning algorithms while removing logging functionalities and MPI dependencies. ***Also works on Windows!***
 
 ## Algorithms
-- Vanilla Policy Gradient
-- Proximal Policy Optimization
-- Deep Deterministic Policy Gradient
-- Twin Delayed Deep Deterministic Policy Gradient
-- Soft Actor-Critic
+- Vanilla Policy Gradient (VPG)
+- Proximal Policy Optimization (PPO)
+- Deep Deterministic Policy Gradient (DDPG)
+- Twin Delayed Deep Deterministic Policy Gradient (TD3)
+- Soft Actor-Critic (SAC)
 
 ## Usage
 Each algorithm is contained within its own Jupyter Notebook. The notebooks are structured as follows:
