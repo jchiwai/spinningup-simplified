@@ -31,3 +31,4 @@ Requirements are minimal:
 
 ## Example GIFs
 
+![VPG gif](gifs/vpg.gif)
