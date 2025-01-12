@@ -1,5 +1,5 @@
 # Spinning Up in Deep RL (Simplified)
-A streamlined implementation of [Spinning Up](https://spinningup.openai.com/en/latest/) using Pytorch (CPU) that retains the core reinforcement learning algorithms while removing logging functionalities and MPI dependencies. ***Also works on Windows!***
+A streamlined implementation of [Spinning Up](https://spinningup.openai.com/en/latest/) using Pytorch (CPU) that retains the core reinforcement learning algorithms while removing logging functionalities and MPI dependencies. ***Also works on Windows! (SpinningUp doesn't seem to support Windows)***
 
 ## Algorithms
 - Vanilla Policy Gradient (VPG)
