@@ -32,8 +32,8 @@ Requirements are minimal:
 ## Example GIFs (visualized after 250,000 TotalEnvInteracts)
 | Algorithm |  |
 |-----------|-----|
-| **VPG**   | <img src="gifs/vpg.gif" alt="vpg GIF" width="200"/> |
-| **PPO**   | <img src="gifs/ppo.gif" alt="ppo GIF" width="200"/> |
-| **DPG**   | <img src="gifs/ddpg.gif" alt="ddpg GIF" width="200"/> |
-| **TD3**   | <img src="gifs/td3.gif" alt="td3 GIF" width="200"/> |
-| **SAC**   | <img src="gifs/sac.gif" alt="sac GIF" width="200"/> |
+| **VPG**   | <img src="gifs/vpg.gif" alt="vpg GIF" width="100"/> |
+| **PPO**   | <img src="gifs/ppo.gif" alt="ppo GIF" width="100"/> |
+| **DPG**   | <img src="gifs/ddpg.gif" alt="ddpg GIF" width="100"/> |
+| **TD3**   | <img src="gifs/td3.gif" alt="td3 GIF" width="100"/> |
+| **SAC**   | <img src="gifs/sac.gif" alt="sac GIF" width="100"/> |
