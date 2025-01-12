@@ -12,7 +12,7 @@ A streamlined implementation of [Spinning Up](https://spinningup.openai.com/en/l
 Each algorithm is contained within its own Jupyter Notebook. The notebooks are structured as follows:
 - Imports
 - Helper functions
-- Model Classes
+- Model
 - Buffer
 - Experiment
 - Visualisation
