@@ -30,7 +30,7 @@ Requirements are minimal:
 - **Pillow** `10.4.0`
 
 ## Example GIFs (visualized after 250,000 TotalEnvInteracts)
-| Algorithm |  |
+| Algorithm | HalfCheetah-v4 |
 |-----------|-----|
 | **VPG**   | <img src="gifs/vpg.gif" alt="vpg GIF" width="100"/> |
 | **PPO**   | <img src="gifs/ppo.gif" alt="ppo GIF" width="100"/> |
