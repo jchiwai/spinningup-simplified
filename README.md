@@ -32,5 +32,15 @@ Requirements are minimal:
 ## Example GIFs (visualized after 250,000 TotalEnvInteracts)
 **vpg**
 <img src="gifs/vpg.gif" alt="vpg GIF" width="200"/>
+
+**ppo**
+<img src="gifs/ppo.gif" alt="ppo GIF" width="200"/>
+
+**dpg**
+<img src="gifs/dpg.gif" alt="dpg GIF" width="200"/>
+
+**td3**
+<img src="gifs/td3.gif" alt="td3 GIF" width="200"/>
+
 **sac**
-<img src="gifs/sac.gif" alt="vpg GIF" width="200"/>
+<img src="gifs/sac.gif" alt="sac GIF" width="200"/>
