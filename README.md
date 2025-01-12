@@ -19,6 +19,7 @@ Requirements are minimal:
 - **Scipy** `1.10.1`
 - **Gymnasium** `0.29.1`
 - **Numpy** `1.24.3`
+- **Pillow** `10.4.0`
 
 ## Example GIFs
 
