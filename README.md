@@ -44,3 +44,12 @@ Requirements are minimal:
 
 **sac**
 <img src="gifs/sac.gif" alt="sac GIF" width="200"/>
+
+
+| Algorithm | GIF |
+|-----------|-----|
+| **VPG**   | <img src="gifs/vpg.gif" alt="vpg GIF" width="200"/> |
+| **PPO**   | <img src="gifs/ppo.gif" alt="ppo GIF" width="200"/> |
+| **DPG**   | <img src="gifs/dpg.gif" alt="dpg GIF" width="200"/> |
+| **TD3**   | <img src="gifs/td3.gif" alt="td3 GIF" width="200"/> |
+| **SAC**   | <img src="gifs/sac.gif" alt="sac GIF" width="200"/> |
